@@ -1,0 +1,1 @@
+Spring-DATA-JPA sample for my Blog
